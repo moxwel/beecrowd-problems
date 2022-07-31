@@ -1,2 +1,2 @@
 # beecrowd-problems
- Problemas resueltos de la pagina de [Beecrowd](https://www.beecrowd.com.br/).
+ Problemas resueltos de la pagina de [Beecrowd](https://www.beecrowd.com.br/) (antes URI Online Judge).
